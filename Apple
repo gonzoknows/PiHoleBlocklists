@@ -1,0 +1,16 @@
+# Title: Pi-hole Apple Blocklist
+# Version: 7May2023
+# Description: This blocklist is specifically designed for Apple.
+# Support: Visit gonzoknows.com for assistance.
+
+init-p01md.apple.com
+metrics.icloud.com
+1-courier.push.apple.com
+1.courier-push-apple.com.akadns.net
+10-courier.push.apple.com
+11-courier.push.apple.com
+gsp85-ssl.ls2-apple.com.akadns.net
+guzzoni.apple.com
+metrics.apple.com
+securemvt.apple.com
+securemvt.apple.com.cn
