@@ -1,0 +1,6 @@
+# Title: Pi-hole Hulu Blocklist
+# Version: 7May2023
+# Description: This blocklist is specifically designed for Hulu.
+# Support: Visit gonzoknows.com for assistance.
+
+api.distribution.hulu.com
