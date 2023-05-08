@@ -1,0 +1,16 @@
+# Title: Pi-hole Email Blocklist
+# Version: 7May2023
+# Description: This blocklist is specifically designed for email.
+# Support: Visit gonzoknows.com for assistance.
+
+api.mixpanel.com
+app.outreach.io
+app.yesware.com
+bl-1.com
+go.rjmetrics.com
+go.toutapp.com
+t.hsms06.com
+t.yesware.com
+tracking.cirrusinsight.com
+via.intercom.io
+web.frontapp.com
