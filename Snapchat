@@ -1,7 +1,7 @@
-# Title: Minimal Universial Blocklist for Pi-hole
+# Title: Pi-hole Snapchat Blocklist
 # Version: 7May2023
-# Description: This is a Snapchat blocklist
-# Support: gonzoknows.com
+# Description: This blocklist is specifically designed for Snapchat.
+# Support: Visit gonzoknows.com for assistance.
 
 snapads.com
 analytics.snapchat.com
