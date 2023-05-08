@@ -1,5 +1,6 @@
 # PiHoleBlocklists
 My pi hole blocklists are designed to improve privacy and network speed without sacrificing convenience while browsing. In my lists, I only block subdomains of domains that many users may disagree with, but that is how I have organized the lists.
+`Porn domains will be the only domains blocked at its primary domain`
 
 The goal of these lists is to block as much as possible without impacting the browsing experience. For example, some family members on my network complained that Google shopping ads do not load product pages. This occurs when you block Google ads, sadly it will not direct the data to the product pages. For my lists, it will not block these ads.
 
