@@ -3,6 +3,82 @@
 # Description: This is a minimal blocklist designed to cover a wide variety of domains (Smart TVs, Telemetry, Trackers, Game Ads, etc).
 # Support: If you would like to support check out gonzoknows.com
 
+# General Telemetry/Trackers 
+sessions.bugsnag.com
+api.bugfender.com
+firebaselogging-pa.googleapis.com
+plugco.in
+scarabresearch.com
+sdk.foursquare.com
+umeng.com
+umengcloud.com
+voicefive.com
+segment.io
+api.myendpoint.io
+bin5y4muil.execute-api.us-east-1.amazonaws.com
+smart-sense.org
+eum-appdynamics.com
+amplitude.com
+branch.io
+applovin.com
+applvn.com
+bluekai.com
+chartboost.com
+flurry.com
+fitanalytics.com
+analytics.localytics.com
+mob.com
+mtrtb.com
+newrelic.com
+nr-data.net
+adnxs.com
+adwords.com
+api.mixpanel.com
+app-measurement.com
+heapanalytics.com
+hm.baidu.com
+in.getclicky.com
+ping.chartbeat.net
+sb.scorecardresearch.com
+sc-analytics.appspot.com
+
+# General Game Ads
+ads.mopub.com
+ads.nexage.com
+vungle.com
+moatads.com
+tenjin.io
+voodoo-analytics.io
+anzuinfra.com
+jetpackdigital.com
+adtechus.com
+atwola.com
+brealtime.com
+concert.io
+revjet.com
+rs-stripe.com
+specless.tech
+rayjump.com
+mopub.com
+unityads.unity3d.com
+ssacdn.com
+supersonic.com
+supersonicads.com
+starbolt.io
+tapjoy.com
+tapjoyads.com
+comscoreresearch.com
+dianomi.com
+
+# Social Media Services
+
+# Snapchat
+snapads.com
+analytics.snapchat.com
+app-analytics.snapchat.com
+sc-analytics.appspot.com
+app-analytics-v2.snapchat.com
+
 # Streaming Services
 
 # Netflix 
